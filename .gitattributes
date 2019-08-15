@@ -1,0 +1,13 @@
+pegasus-thirdparty-prebuild.tar.gz filter=lfs diff=lfs merge=lfs -text
+thrift-0.9.3.tar.gz filter=lfs diff=lfs merge=lfs -text
+zookeeper-3.4.10.tar.gz filter=lfs diff=lfs merge=lfs -text
+zookeeper-3.4.6.tar.gz filter=lfs diff=lfs merge=lfs -text
+build-depends.tar.gz filter=lfs diff=lfs merge=lfs -text
+json_fix_v1.8_to_v1.9.tar.gz filter=lfs diff=lfs merge=lfs -text
+pre-built/ubuntu14.04/thrift filter=lfs diff=lfs merge=lfs -text
+docs filter=lfs diff=lfs merge=lfs -text
+. filter=lfs diff=lfs merge=lfs -text
+misc filter=lfs diff=lfs merge=lfs -text
+pre-built filter=lfs diff=lfs merge=lfs -text
+rdsn filter=lfs diff=lfs merge=lfs -text
+img filter=lfs diff=lfs merge=lfs -text
